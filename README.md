@@ -6,4 +6,7 @@ It is the fully functional website.
 
 ![2020-10-06 (3)](https://user-images.githubusercontent.com/69973862/95188908-c42da700-07ea-11eb-8ddd-baa8ed3978f6.png)
 
-## Below is the 
+## Below is the contact page of our website.
+
+![2020-10-06 (3)](https://user-images.githubusercontent.com/69973862/95188908-c42da700-07ea-11eb-8ddd-baa8ed3978f6.png)
+
