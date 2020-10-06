@@ -1,6 +1,7 @@
 # Dental Website
 It is the dental website using HTML, CSS, Javascript and Django framework.
 It is the fully functional website.
+Users can fill the form and validate at the backend and also the mail will be sent automatically to the owner about the appointment.
 
 ## Below is the homepage of dental website.
 
